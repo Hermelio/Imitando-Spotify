@@ -1,2 +1,2 @@
 # Imitando-Spotify
-Essa é uma landing que criei para fortalecer meus conehcimentos na aera
+Pagina que ultiliza muitas funcionalidades do Spotify
